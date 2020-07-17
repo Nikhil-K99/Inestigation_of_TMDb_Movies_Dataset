@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-The objective of this project was to essentially analyze a dataset from The Movie Database (TMDb), which is a popular database that contains an abundance of data from a large set of movies over the years. I analyzed this data using the Numpy, Pandas, and Matplotlib libraries in python. I analyzed this dataset to specifically answer certain questions that I posed about the data.
+The objective of this project was to essentially analyze a dataset from The Movie Database (TMDb), which is a popular database that contains an abundance of data from a large set of movies over the years. I analyzed this data using the Numpy, Pandas, and Matplotlib libraries in python. I analyzed this dataset to specifically answer certain questions that I posed about the data. This dataset was pulled from Kaggle and is my very first project using pandas to analyze data.
 
 ## Questions for the analysis
 
